@@ -15,12 +15,15 @@ def cls():
 # In[2]:
 
 
+
+print("enter the code of stock(\"end\" to finish)")
 x=input()
 stock=[]
 while x!="end":
     stock.append(x)
+    print("enter the code of stock(\"end\" to finish)")
     x=input()
-
+    
 
 # In[ ]:
 

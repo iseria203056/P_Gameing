@@ -3,7 +3,6 @@
 
 # In[1]:
 
-
 from bs4 import BeautifulSoup
 import requests as rq
 import time
@@ -13,8 +12,6 @@ def cls():
 
 
 # In[2]:
-
-
 
 print("enter the code of stock(\"end\" to finish)")
 x=input()
